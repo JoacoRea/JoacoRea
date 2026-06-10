@@ -24,5 +24,5 @@ Desarrollador fullstack en Buenos Aires: **Python** y **JavaScript**
 
 ## 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/joaquin-rea-9a1b21263/)
-- ✉️ joaquinreatoscano@gmail.com
+- joaquinreatoscano@gmail.com
 - [Instagram](https://www.instagram.com/joaco_rea/)
