@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola, soy Joaco 👋
 
-<!--
-**JoacoRea/JoacoRea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador fullstack en Buenos Aires: **Python** y **JavaScript**
 
-Here are some ideas to get you started:
+## 🎓 Formación — UTN BA
+- **Diplomatura en Python**
+- **Experto Universitario: Professional Front End Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack
+**Backend**
+- Python (POO, decoradores, asyncio)
+- FastAPI
+
+**Frontend**
+- JavaScript (DOM, eventos, validación de formularios, consumo de APIs)
+- HTML5 (Web Storage, IndexedDB, geolocalización)
+- CSS3 (Flexbox, responsive) · Bootstrap
+
+**Herramientas**
+- Git & GitHub
+
+## 🚀 Proyectos
+
+
+## 📫 Contacto
+- [LinkedIn](https://www.linkedin.com/in/joaquin-rea-9a1b21263/)
+- ✉️ joaquinreatoscano@gmail.com
+- [Instagram](https://www.instagram.com/joaco_rea/)
