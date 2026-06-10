@@ -9,7 +9,7 @@ Desarrollador fullstack en Buenos Aires: **Python** y **JavaScript**
 ## 🛠️ Stack
 **Backend**
 - Python (POO, decoradores, asyncio)
-- FastAPI
+- FastAPI 🚧
 
 **Frontend**
 - JavaScript (DOM, eventos, validación de formularios, consumo de APIs)
@@ -20,7 +20,7 @@ Desarrollador fullstack en Buenos Aires: **Python** y **JavaScript**
 - Git & GitHub
 
 ## 🚀 Proyectos
-
+*En construcción — primer proyecto: API REST con FastAPI*
 
 ## 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/joaquin-rea/)
