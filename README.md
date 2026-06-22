@@ -19,9 +19,6 @@ Desarrollador fullstack en Buenos Aires: **Python** y **JavaScript**
 **Herramientas**
 - Git & GitHub
 
-## 🚀 Proyectos
-*En construcción — primer proyecto: API REST con FastAPI*
-
 ## 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/joaquin-rea/)
 - joaquinreatoscano@gmail.com
